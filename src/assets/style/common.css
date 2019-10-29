@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding:0;
+    background: #e5e9f2
+}
+html,body {
+    height: 100%;
+}
+* {
+    box-sizing: border-box
+}
+.products-lyt .el-tree-node__content {
+    height: 40px !important;
+}
+ul,li{
+    list-style: none;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
